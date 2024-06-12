@@ -65,3 +65,7 @@ body{
     font-weight: bold;
     cursor: pointer;
 }
+
+.form button:hover{
+    background-color: rgb(62, 231, 62);
+}
