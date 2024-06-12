@@ -7,7 +7,13 @@ body{
     justify-content: center;
     align-items: center;
     font-family:  "Poppins";
-    background-color: rgb(57, 214, 214);
+    background-image: linear-gradient(To right, #03a1bd, #39f5eb ,#c1fdf5);
+}
+
+h2{
+    margin-bottom: 40%;
+    font-size: small;
+    font-style: italic;  
 }
 
 .container{
